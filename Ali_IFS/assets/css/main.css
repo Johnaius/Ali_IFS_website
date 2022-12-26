@@ -1712,7 +1712,8 @@ form ::-moz-focus-inner {
 
 .image img {
 	display: block;
-	width: 100%;
+	width: 110%;
+
 }
 
 .image.fit {
@@ -1751,10 +1752,10 @@ form ::-moz-focus-inner {
 
 #ali {
 	position: relative;
-	margin-top: 10%;
+	margin-top: 5%;
 	top: 33%;
-	left: 38%;
-	width: 25%;
+	left: 25%;
+	width: 40%;
 }
 
 #sun {
@@ -3187,7 +3188,7 @@ p {
 		position: relative;
 		size: 100%;
 		top: 33%;
-		left: 15%;
+		left: 12%;
 		width: 70%;
 	}
 
