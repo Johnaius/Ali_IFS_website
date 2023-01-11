@@ -1735,10 +1735,10 @@ form ::-moz-focus-inner {
 }
 
 #ali {
-	display: block;
-	width: 20%;
-	height: 20%;
-	margin: 0 0 2em 38em;
+	position: relative;
+	top: 33%;
+	left: 33%;
+	width: 35%;
 }
 
 .image.lefty,
@@ -2249,7 +2249,7 @@ ul.actions.special {
 
 #logo p {
 	color: #eee;
-	color: rgba(255, 255, 255, 0.5);
+	color: rgba(229, 180, 255, 0.914);
 	text-transform: uppercase;
 	margin: 1.25em 0 0 0;
 	display: block;
@@ -2289,7 +2289,7 @@ ul.actions.special {
 #nav>ul>li>span {
 	display: block;
 	color: #eee;
-	color: rgba(255, 255, 255, 0.75);
+	color: rgba(247, 200, 239, 0.75);
 	text-transform: uppercase;
 	text-decoration: none;
 	font-size: 0.7em;
