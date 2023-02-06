@@ -1749,6 +1749,14 @@ form ::-moz-focus-inner {
 	width: 25%;
 }
 
+#sun {
+	position: relative;
+	margin-top: 0%;
+	top: 33%;
+	left: 25%;
+	width: 50%;
+}
+
 .image.lefty,
 .image.righty {
 	width: 40%;
@@ -3158,9 +3166,17 @@ ul.actions.special {
 
 		#ali {
 			position: relative;
+			size: 50%;
 			top: 33%;
 			left: 25%;
 			width: 50%;
+		}
+
+		#sun {
+			position: relative;
+			top: 33%;
+			left: 25%;
+			width: 100%;
 		}
 
 		/* Features */
