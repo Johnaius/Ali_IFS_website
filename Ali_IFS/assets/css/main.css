@@ -202,7 +202,7 @@ textarea,
 select {
 	font-family: 'Source Sans Pro', sans-serif;
 	font-weight: 400;
-	color: #919499;
+	color: #5d5f62;
 	font-size: 14pt;
 	line-height: 1.75em;
 	letter-spacing: 0.025em;
@@ -2200,16 +2200,16 @@ ul.actions.special {
 }
 
 .wrapper.style3 {
-	background: #f3f3f3 url("images/overlay.png");
+	background: #f8e5d9 url("images/overlay.png");
 }
 
 .wrapper.style3 .title {
-	background: #f3f3f3 url("images/overlay.png");
+	background: #f8e5d9 url("images/overlay.png");
 	color: #484d55;
 }
 
 .wrapper.style3 .image {
-	border: solid 10px #fff;
+	border: solid 10px #f8e5d9;
 }
 
 /* Page Wrapper */
@@ -2460,7 +2460,7 @@ p {
 }
 
 #highlights .highlight h3 {
-	color: #1dbab4;
+	color: #3a9d9a;
 	margin: 0 0 0.75em 0;
 	font-size: 1.15em;
 	letter-spacing: 0.05em;
