@@ -2168,7 +2168,7 @@ ul.actions.special {
 .wrapper.style1 {
 	background: #e6a586 url("images/overlay.png");
 	color: #eee;
-	color: rgba(255, 255, 255, 0.75);
+	color: rgb(245, 239, 239);
 }
 
 /* change style one color here */
@@ -2412,8 +2412,8 @@ ul.actions.special {
 }
 
 p.style1 {
-	color: #0e0e0e;
-	font-weight: 500;
+	color: #474343dd;
+	font-weight: 700;
 }
 
 p {
