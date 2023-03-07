@@ -3273,3 +3273,10 @@ p {
 .wrapper.style1 {
 	margin-bottom: 0;
 }
+
+.butt {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+
+}
