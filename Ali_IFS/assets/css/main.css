@@ -1859,7 +1859,7 @@ input[type="submit"].style1,
 input[type="reset"].style1,
 button.style1,
 .button.style1 {
-	background: #ffbc58;
+	background: #ffc26c;
 	color: #090909;
 }
 
@@ -2642,6 +2642,11 @@ p {
 
 }
 
+.wrapper.style3 {
+	padding: 4em 0 7em 0;
+	margin-bottom: 0em;
+}
+
 /* Large */
 
 @media screen and (max-width: 1280px) {
@@ -2663,15 +2668,25 @@ p {
 		padding: 4em 0 7em 0;
 	}
 
+	.wrapper.style3 {
+		padding: 4em 0 7em 0;
+		margin-bottom: 0em;
+	}
+
 	/* Logo */
 
 	#logo {
 		margin-top: -0.5em !important;
+		padding-left: 1em;
 	}
 
 	#logo h1 {
 		font-size: 1.75em;
 	}
+
+	/* #logo #creds {
+		padding-left: 5em;
+	} */
 
 	/* Intro */
 
@@ -2753,6 +2768,7 @@ p {
 	/* Logo */
 
 	#logo {
+		padding-left: 6em;
 		top: 0;
 	}
 
@@ -3157,16 +3173,16 @@ p {
 	}
 
 	#logo h1 {
-		font-size: 1.45em;
+		font-size: 1.5em;
 		letter-spacing: 0.2em;
 	}
 
 	#logo #creds {
-		font-size: 1em;
+		font-size: 1.2em;
 		letter-spacing: 0.2em;
-
-
+		padding-left: 6em;
 	}
+
 
 	#logo p {
 		margin: 1.25em 0 0 0;
