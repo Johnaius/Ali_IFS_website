@@ -1744,10 +1744,11 @@ form ::-moz-focus-inner {
 }
 
 #shaman {
-	display: block;
-	width: 50%;
-	margin: 0 0 2em 17em;
+	display: flex;
+	width: 75%;
+	margin: 0 0 2em 0;
 	align-content: center;
+	justify-content: center;
 }
 
 #ali {
@@ -2975,12 +2976,12 @@ p {
 		padding: 0;
 	}
 
-	#shaman {
+	/* #shaman {
 		display: block;
-		width: 50%;
+		width: 75%;
 		margin: 0 0 2em 12em;
 		align-content: center;
-	}
+	} */
 
 
 }
@@ -2991,10 +2992,8 @@ p {
 
 	/* Basic */
 	#shaman {
-		display: block;
 		width: 50%;
-		margin: 0 0 2em 7em;
-		align-content: center;
+		margin: 0 0 2em 0;
 	}
 
 	body,
@@ -3105,7 +3104,7 @@ p {
 	/* Wrapper */
 
 	.wrapper {
-		padding: 3em 0 6em 0;
+		padding: 3em 0 6em .5em;
 	}
 
 	.wrapper .title {
@@ -3193,11 +3192,11 @@ p {
 	}
 
 	#sun {
-		position: inherit;
+
 		align-items: center;
 		top: 33%;
 		left: -5%;
-		width: 110%;
+		width: 100%;
 
 	}
 
