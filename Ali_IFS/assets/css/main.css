@@ -1751,6 +1751,14 @@ form ::-moz-focus-inner {
 	justify-content: center;
 }
 
+#pic {
+	display: flex;
+	width: 100%;
+	margin: 0 0 2em 0;
+	align-content: center;
+	justify-content: center;
+}
+
 #ali {
 	position: relative;
 	margin-top: 5%;
@@ -2994,6 +3002,11 @@ p {
 	#shaman {
 		width: 50%;
 		margin: 0 0 2em 0;
+	}
+
+	#pic {
+		width: 100%;
+		margin: 0 .5em 2em 0;
 	}
 
 	body,
